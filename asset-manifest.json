@@ -1,20 +1,33 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.8b457855.chunk.css",
-    "main.js": "/profile/static/js/main.5c5e322e.chunk.js",
-    "main.js.map": "/profile/static/js/main.5c5e322e.chunk.js.map",
+    "main.css": "/profile/static/css/main.4bf4b6f9.chunk.css",
+    "main.js": "/profile/static/js/main.a7e7f99e.chunk.js",
+    "main.js.map": "/profile/static/js/main.a7e7f99e.chunk.js.map",
     "runtime-main.js": "/profile/static/js/runtime-main.42ab4c66.js",
     "runtime-main.js.map": "/profile/static/js/runtime-main.42ab4c66.js.map",
-    "static/js/2.e07505f4.chunk.js": "/profile/static/js/2.e07505f4.chunk.js",
-    "static/js/2.e07505f4.chunk.js.map": "/profile/static/js/2.e07505f4.chunk.js.map",
+    "static/js/2.3e0e5bb6.chunk.js": "/profile/static/js/2.3e0e5bb6.chunk.js",
+    "static/js/2.3e0e5bb6.chunk.js.map": "/profile/static/js/2.3e0e5bb6.chunk.js.map",
     "index.html": "/profile/index.html",
-    "static/css/main.8b457855.chunk.css.map": "/profile/static/css/main.8b457855.chunk.css.map",
-    "static/js/2.e07505f4.chunk.js.LICENSE.txt": "/profile/static/js/2.e07505f4.chunk.js.LICENSE.txt"
+    "static/css/main.4bf4b6f9.chunk.css.map": "/profile/static/css/main.4bf4b6f9.chunk.css.map",
+    "static/js/2.3e0e5bb6.chunk.js.LICENSE.txt": "/profile/static/js/2.3e0e5bb6.chunk.js.LICENSE.txt",
+    "static/media/elasticsearch.663f1bb2.png": "/profile/static/media/elasticsearch.663f1bb2.png",
+    "static/media/jp.76bf2d21.png": "/profile/static/media/jp.76bf2d21.png",
+    "static/media/mern.aa256837.png": "/profile/static/media/mern.aa256837.png",
+    "static/media/ml.439add05.jpg": "/profile/static/media/ml.439add05.jpg",
+    "static/media/multiclass.756a3681.png": "/profile/static/media/multiclass.756a3681.png",
+    "static/media/neuralnet.2bf318d6.png": "/profile/static/media/neuralnet.2bf318d6.png",
+    "static/media/newDc.6827fa31.png": "/profile/static/media/newDc.6827fa31.png",
+    "static/media/prepbytes.05e670de.png": "/profile/static/media/prepbytes.05e670de.png",
+    "static/media/python.99971d53.jpg": "/profile/static/media/python.99971d53.jpg",
+    "static/media/rent.9f583aba.png": "/profile/static/media/rent.9f583aba.png",
+    "static/media/tensorflow.2f9c7673.png": "/profile/static/media/tensorflow.2f9c7673.png",
+    "static/media/web_proj.85c3a870.png": "/profile/static/media/web_proj.85c3a870.png",
+    "static/media/yelpcamp.2a52762c.png": "/profile/static/media/yelpcamp.2a52762c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.42ab4c66.js",
-    "static/js/2.e07505f4.chunk.js",
-    "static/css/main.8b457855.chunk.css",
-    "static/js/main.5c5e322e.chunk.js"
+    "static/js/2.3e0e5bb6.chunk.js",
+    "static/css/main.4bf4b6f9.chunk.css",
+    "static/js/main.a7e7f99e.chunk.js"
   ]
 }
